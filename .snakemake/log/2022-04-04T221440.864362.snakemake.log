@@ -1,0 +1,3 @@
+KeyError in line 37 of /Users/martynas/Desktop/Mokslai/Magistras/1 kursas/2 semestras/Transcriptomics/Alzbuto_dalis/snakemake-tutorial/Snakefile:
+'samples'
+  File "/Users/martynas/Desktop/Mokslai/Magistras/1 kursas/2 semestras/Transcriptomics/Alzbuto_dalis/snakemake-tutorial/Snakefile", line 37, in <module>
